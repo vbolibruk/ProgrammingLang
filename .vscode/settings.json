@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "__locale": "c",
+        "functional": "c",
+        "cmath": "c",
+        "complex": "c",
+        "random": "c",
+        "*.tcc": "c",
+        "numbers": "c",
+        "chrono": "c",
+        "limits": "c",
+        "ratio": "c",
+        "semaphore": "c",
+        "algorithm": "c"
+    }
+}
