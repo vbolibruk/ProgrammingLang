@@ -12,6 +12,7 @@
         "limits": "c",
         "ratio": "c",
         "semaphore": "c",
-        "algorithm": "c"
+        "algorithm": "c",
+        "math.h": "c"
     }
 }
