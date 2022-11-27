@@ -1,0 +1,10 @@
+setup.py
+custombooks/Book.py
+custombooks/Fiction.py
+custombooks/NonFiction.py
+custombooks/__init__.py
+custombooks.egg-info/PKG-INFO
+custombooks.egg-info/SOURCES.txt
+custombooks.egg-info/dependency_links.txt
+custombooks.egg-info/not-zip-safe
+custombooks.egg-info/top_level.txt
